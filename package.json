@@ -9,6 +9,7 @@
   "author": "Thao Le (sabrina)",
   "license": "ISC",
   "dependencies": {
+    "bcrypt-nodejs": "0.0.3",
     "body-parser": "^1.18.3",
     "connect-flash": "^0.1.1",
     "connect-mongo": "^2.0.1",
